@@ -1,0 +1,14 @@
+C:\Users\Berkay\Desktop\ExtMetot\ExtMetot\bin\Debug\net8.0\ExtMetot.exe
+C:\Users\Berkay\Desktop\ExtMetot\ExtMetot\bin\Debug\net8.0\ExtMetot.deps.json
+C:\Users\Berkay\Desktop\ExtMetot\ExtMetot\bin\Debug\net8.0\ExtMetot.runtimeconfig.json
+C:\Users\Berkay\Desktop\ExtMetot\ExtMetot\bin\Debug\net8.0\ExtMetot.dll
+C:\Users\Berkay\Desktop\ExtMetot\ExtMetot\bin\Debug\net8.0\ExtMetot.pdb
+C:\Users\Berkay\Desktop\ExtMetot\ExtMetot\obj\Debug\net8.0\ExtMetot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berkay\Desktop\ExtMetot\ExtMetot\obj\Debug\net8.0\ExtMetot.AssemblyInfoInputs.cache
+C:\Users\Berkay\Desktop\ExtMetot\ExtMetot\obj\Debug\net8.0\ExtMetot.AssemblyInfo.cs
+C:\Users\Berkay\Desktop\ExtMetot\ExtMetot\obj\Debug\net8.0\ExtMetot.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\ExtMetot\ExtMetot\obj\Debug\net8.0\ExtMetot.dll
+C:\Users\Berkay\Desktop\ExtMetot\ExtMetot\obj\Debug\net8.0\refint\ExtMetot.dll
+C:\Users\Berkay\Desktop\ExtMetot\ExtMetot\obj\Debug\net8.0\ExtMetot.pdb
+C:\Users\Berkay\Desktop\ExtMetot\ExtMetot\obj\Debug\net8.0\ExtMetot.genruntimeconfig.cache
+C:\Users\Berkay\Desktop\ExtMetot\ExtMetot\obj\Debug\net8.0\ref\ExtMetot.dll
